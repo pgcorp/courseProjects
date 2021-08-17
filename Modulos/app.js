@@ -1,0 +1,14 @@
+const names = require('./names');
+const sayHi = require('./utils');
+const alterData = require('./alternative_flavor');
+require('./modAndFuctions');
+//const modAndFun = require('./modAndFuctions');
+//console.log(names);
+// sayHi(names.Alexa);
+// sayHi(names.Pgj);
+// sayHi(names.Siri);
+// sayHi('Google');
+//console.log(alterData);
+//sayHi(alterData.items[0]);
+//console.log(alterData.singlePerson.last);
+//console.log(alterData.singlePerson);
